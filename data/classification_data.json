@@ -1,0 +1,92 @@
+[
+    {
+        "image_name": "IMG_01.jpg",
+        "predicted_value": "Good Banana",
+        "actual_value": "Good Banana",
+        "distributions": {
+            "labels": ["Bad Apple", "Good Apple", "Bad Banana", "Good Banana"],
+            "values": [0.00151388, 0.04932898, 0.06980795, 0.87934923]
+        }
+    },
+    {
+        "image_name": "IMG_02.jpg",
+        "predicted_value": "Good Banana",
+        "actual_value": "Good Banana",
+        "distributions": {
+            "labels": ["Bad Apple", "Good Apple", "Bad Banana", "Good Banana"],
+            "values": [4.7538607e-04, 2.1097889e-02, 6.7128196e-02, 9.1129845e-01] 
+        }
+    },
+    {
+        "image_name": "IMG_03.jpg",
+        "predicted_value": "Bad Banana",
+        "actual_value": "Bad Banana",
+        "distributions": {
+            "labels": ["Bad Apple", "Good Apple", "Bad Banana", "Good Banana"],
+            "values": [0.03747401,0.066736,0.7804554,0.11533452] 
+        }
+    },
+    {
+        "image_name": "IMG_04.jpg",
+        "predicted_value": "Bad Banana",
+        "actual_value": "Bad Banana",
+        "distributions": {
+            "labels": ["Bad Apple", "Good Apple", "Bad Banana", "Good Banana"],
+            "values":  [0.02681014, 0.06277565, 0.80699563, 0.10341862]
+        }
+    },
+    {
+        "image_name": "IMG_05.jpg",
+        "predicted_value": "Good Banana",
+        "actual_value": "Bad Banana",
+        "distributions": {
+            "labels": ["Bad Apple", "Good Apple", "Bad Banana", "Good Banana"],
+            "values":  [0.00210036, 0.04868356, 0.22106776, 0.72814834]
+        }
+    },
+    {
+        "image_name": "IMG_06.jpg",
+        "predicted_value": "Good Apple",
+        "actual_value": "Good Apple",
+        "distributions": {
+            "labels": ["Bad Apple", "Good Apple", "Bad Banana", "Good Banana"],
+            "values":  [0.113476,   0.8636928,  0.02172373, 0.00110754] 
+        }
+    },
+    {
+        "image_name": "IMG_07.jpg",
+        "predicted_value": "Good Apple",
+        "actual_value": "Good Apple",
+        "distributions": {
+            "labels": ["Bad Apple", "Good Apple", "Bad Banana", "Good Banana"],
+            "values":  [0.1478127,  0.7692296,  0.07052704, 0.01243066]
+        }
+    },
+    {
+        "image_name": "IMG_08.jpg",
+        "predicted_value": "Bad Apple",
+        "actual_value": "Bad Apple",
+        "distributions": {
+            "labels": ["Bad Apple", "Good Apple", "Bad Banana", "Good Banana"],
+            "values":  [8.5143030e-01, 1.1198203e-01, 3.6389809e-02, 1.9781284e-04]
+        }
+    },
+    {
+        "image_name": "IMG_09.jpg",
+        "predicted_value": "Bad Apple",
+        "actual_value": "Bad Apple",
+        "distributions": {
+            "labels": ["Bad Apple", "Good Apple", "Bad Banana", "Good Banana"],
+            "values":  [8.8140982e-01, 9.6180201e-02, 2.2337792e-02, 7.2262279e-05]
+        }
+    },
+    {
+        "image_name": "IMG_10.jpg",
+        "predicted_value": "Bad Apple",
+        "actual_value": "Good Apple",
+        "distributions": {
+            "labels": ["Bad Apple", "Good Apple", "Bad Banana", "Good Banana"],
+            "values":  [2.5965378e-01, 7.3322678e-01, 6.9252057e-03, 1.9424694e-04]
+        }
+    }
+]
