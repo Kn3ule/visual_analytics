@@ -44,7 +44,7 @@ python app.py
 
 ## Modellbeschreibung
 
-Das Convolutional Neural Network (CNN) in diesem Projekt wurde zur Klassifikation von Äpfeln und Bananen entwickelt. Das Modell besteht aus mehreren Convolutional und Pooling Schichten, gefolgt von Fully Connected Schichten, um die Klassifikation durchzuführen.
+Das Convolutional Neural Network (CNN) in diesem Projekt wurde zur Klassifikation von Äpfeln und Bananen entwickelt. Das Modell besteht aus mehreren Convolutional und Pooling Schichten um die Klassifikation durchzuführen.
 
 ## XAI Methoden
 
